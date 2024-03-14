@@ -1,0 +1,49 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+p {
+  color: white;
+  font-style: italic;
+}
+h1 {
+  color: navy;
+  background-color: #fbcea7;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+  border: 5px dotted white;
+}
+
+hr{
+  background-color: white;
+}
+
+.red {
+  postion: absolute;
+  text-align: center;
+  background-color: red;
+  box-shadow: 5px solid red;
+}
+
+.green {
+  postion: absolute;
+  text-align: center;
+  background-color: green;
+}
+
+.blue {
+  postion: absolute;
+  text-align: center;
+  background-color: blue;
+}
